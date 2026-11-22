@@ -1,0 +1,19 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# Python virtual environment & cache
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.bak
